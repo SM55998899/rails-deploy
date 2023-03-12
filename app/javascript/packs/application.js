@@ -2,6 +2,8 @@
 // present in this directory. You're encouraged to place your actual application logic in
 // a relevant structure within app/javascript and only use these pack files to reference
 // that code so it'll be compiled.
+//= require jquery #追加
+//= require jquery_ujs #追加
 require("jquery")
 require("@rails/ujs").start()
 require("turbolinks").start()
