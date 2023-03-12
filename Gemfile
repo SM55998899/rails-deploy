@@ -7,7 +7,6 @@ gem 'rails',                   '6.0.4'
 gem 'aws-sdk-s3',             '~> 1', require: false
 gem 'image_processing',           '1.9.3'
 gem 'psych', '~> 3.1'
-gem "jquery-rails"
 gem 'mini_magick',                '4.9.5'
 gem 'active_storage_validations', '0.8.2'
 gem 'bcrypt',                  '3.1.13'
